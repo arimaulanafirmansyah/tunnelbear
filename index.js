@@ -2,7 +2,7 @@
 // TUNNELBEAR ACCOUNT CREATOR V1 ( 03-04-2025 )
 // AMFCODE
 // KETAUAN GANTI COPYRIGHT & RECODE POST DI TEMPAT!
-
+const fs = require('fs')
 const readlinesync = require('readline-sync');
 const axios = require('axios')
 const noderandom = require('node-random-name')
